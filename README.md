@@ -174,7 +174,9 @@ The Power BI dashboard provides interactive analysis of delivery time across:
 * Vehicle condition
 * Weather condition
 
-![Zomato Delivery Dashboard](images/dashboard.png)
+<img width="1321" height="748" alt="image" src="https://github.com/user-attachments/assets/0e7ce26f-be35-4b89-aa79-41ed521f7cfd" />
+
+
 
 ---
 
